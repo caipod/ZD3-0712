@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
     <title>home@3x</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="改你妹" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="calendar-headline-share" transform="translate(-360.000000, -102.000000)" fill="#FFFFFF">
-            <g id="head" transform="translate(20.000000, 84.000000)">
+        <g id="calendar-headline-share" transform="translate(-360.000000, -102.000000)">
+            <rect fill="#F4F4F4" x="0" y="0" width="414" height="1892"></rect>
+            <g id="head" transform="translate(20.000000, 84.000000)" fill="#FFFFFF">
                 <path d="M345.384977,32 L343.403756,32 C342.851471,32 342.403756,31.5522847 342.403756,31 L342.403756,25.4049587 L340,25.4049587 L348,18 L356,25.4049587 L353.596244,25.4049587 L353.596244,31 C353.596244,31.5522847 353.148529,32 352.596244,32 L350.615023,32 C350.062739,32 349.615023,31.5522847 349.615023,31 L349.615023,27.0633609 L346.384977,27.0633609 L346.384977,31 C346.384977,31.5522847 345.937261,32 345.384977,32 Z" id="home"></path>
             </g>
         </g>
